@@ -169,10 +169,12 @@ section {
 	transition: all 0.2s ease-in-out;
 }
 .navbar-default .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/JC-logoNavBar.png);
+	background-size: 3.9em;
+	 
 }
 .navbar-shrink .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/JC-logoNavBar.png);
 }
 .navbar-transparent .navbar-brand {
 	background-image: url(../img/logo.png);
@@ -409,6 +411,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	height: 75px;
 	line-height: 75px;
 	font-size: 36px;
+	
 }
 
 .rotate-box-2.square-icon .rotate-box-info {
@@ -479,7 +482,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 
 .testimonial .cover {
-	background-color: rgba(0, 7, 11, 0.87);
+	background-color: rgb(63 37 86 / 87%);
 }
 .testimonial-inner {
 	position: relative;
@@ -1146,5 +1149,14 @@ p.subtitle {
 	-moz-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
 	transform: rotate(-45deg);
+	
+}
+
+.rotate-box-1.square-icon .rotate-box-icon, .rotate-box-2.square-icon .rotate-box-icon {
+    background-color: #270c57!important;
+}
+
+.footer {
+	background-color: #270c57!important;
 }
 /* ===== End buttons ===== */
