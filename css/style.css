@@ -1167,4 +1167,16 @@ p.subtitle {
 .img-skills {
 	width: 36em;
 }
+@media screen and (max-width:992px) {
+	.img-skills{
+		width: 24em;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+.parallax {
+    
+    background-position: 82% 50% !important;
+}
+}
 /* ===== End buttons ===== */
