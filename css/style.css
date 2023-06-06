@@ -72,7 +72,7 @@ h5 {
 	font-size: 18px;
 }
 p {
-	font: 14px/1.5em "Roboto";
+	font: 18px/1.5em "Roboto";
 }
 .navbar-nav > li > a {
 	font-family: "Lato", Helvetica, Arial, sans-serif;
@@ -188,8 +188,9 @@ section {
 	padding: 24px 0;
 	margin-left: 25px;
 	text-transform: uppercase;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: 600;
+	color:white!important;
 }
 
 /* Navbar dropdown */
@@ -459,6 +460,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 .progress-lebel h6{
 	margin-bottom: 10px;
+	margin-top: 26px;
 	letter-spacing: 2px;
 }
 /* ===== End progress bar ===== */
@@ -1160,5 +1162,9 @@ p.subtitle {
 
 .footer {
 	background-color: #270c57!important;
+}
+
+.img-skills {
+	width: 36em;
 }
 /* ===== End buttons ===== */
