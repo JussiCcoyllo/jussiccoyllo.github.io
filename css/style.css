@@ -466,7 +466,9 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 
 /* Begin cta section */
 #cta-section {
-	padding: 70px 0 80px;
+	padding: 43px 0 53px;
+	background: #270c571a!important;
+	
 }
 .cta-btn {
 	margin-top: 30px;
