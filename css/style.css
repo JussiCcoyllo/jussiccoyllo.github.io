@@ -72,7 +72,7 @@ h5 {
 	font-size: 18px;
 }
 p {
-	font: 18px/1.5em "Roboto";
+	font: 18px/1.5em "Roboto"!important;
 }
 .navbar-nav > li > a {
 	font-family: "Lato", Helvetica, Arial, sans-serif;
@@ -177,10 +177,10 @@ section {
 	background-image: url(../img/JC-logoNavBar.png);
 }
 .navbar-transparent .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/logoNavBar.png);
 }
 .navbar-inverse .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/logoNavBar.png);
 }
 
 /* Navbar links */
