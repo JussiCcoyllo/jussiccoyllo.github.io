@@ -1177,7 +1177,7 @@ p.subtitle {
 @media only screen and (max-width: 992px) {
 .parallax {
     
-    background-position: 82% 50% !important;
+    background-position: right!important;
 }
 }
 /* ===== End buttons ===== */
